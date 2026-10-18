@@ -1,0 +1,10 @@
+{
+  "test": {
+    "version": "0.3.0rc3",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.0rc3/KatAsiaBike-0.3.0rc3-update.zip",
+    "sha256": "6c0e648d440d40f5fd2e7ce5feadc7bfa89378590ffe89c39c60b4ce5261fbaa",
+    "size": 66263276,
+    "notes": "Тестовая версия.\n• Календарь занятости\n• Сводка для владельца\n• Выгрузка в Excel\n• Автообновление\n• Если ИИ не отвечает — бот извиняется и передаёт вопрос менеджеру",
+    "date": "2026-10-18"
+  }
+}
