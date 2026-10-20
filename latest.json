@@ -1,18 +1,18 @@
 {
   "test": {
-    "version": "0.3.2",
-    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.2/KatAsiaBike-0.3.2-update.zip",
-    "sha256": "8ac7efa793b6fb66cbceefd302eac54a76d6e5f3efcab594342b9d71dda3260d",
-    "size": 67485375,
-    "notes": "Кнопки брони под ответом ИИ в клиентском боте\nЗнакомых клиентов бот узнаёт: по имени, «как в прошлый раз», текущая аренда — сразу менеджеру\nВ заявке видно знакомого клиента и чёрный список",
+    "version": "0.3.3",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.3/KatAsiaBike-0.3.3-update.zip",
+    "sha256": "bb0a1e6a061dfd6e0bd048fe4f40b160cddc53ae4613ba636a457662d0abdfb1",
+    "size": 67487840,
+    "notes": "Обновление надёжнее: открытая папка программы в Проводнике больше не мешает установке\nЕсли файл занят — понятное сообщение, что закрыть\nВ 0.3.2: кнопки брони под ответом ИИ, бот узнаёт постоянных клиентов",
     "date": "2026-10-20"
   },
   "stable": {
-    "version": "0.3.2",
-    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.2/KatAsiaBike-0.3.2-update.zip",
-    "sha256": "8ac7efa793b6fb66cbceefd302eac54a76d6e5f3efcab594342b9d71dda3260d",
-    "size": 67485375,
-    "notes": "Кнопки брони под ответом ИИ в клиентском боте\nЗнакомых клиентов бот узнаёт: по имени, «как в прошлый раз», текущая аренда — сразу менеджеру\nВ заявке видно знакомого клиента и чёрный список",
+    "version": "0.3.3",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.3/KatAsiaBike-0.3.3-update.zip",
+    "sha256": "bb0a1e6a061dfd6e0bd048fe4f40b160cddc53ae4613ba636a457662d0abdfb1",
+    "size": 67487840,
+    "notes": "Обновление надёжнее: открытая папка программы в Проводнике больше не мешает установке\nЕсли файл занят — понятное сообщение, что закрыть\nВ 0.3.2: кнопки брони под ответом ИИ, бот узнаёт постоянных клиентов",
     "date": "2026-10-20"
   }
 }
