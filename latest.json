@@ -1,18 +1,18 @@
 {
   "test": {
-    "version": "0.3.4",
-    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.4/KatAsiaBike-0.3.4-update.zip",
-    "sha256": "a4b3c9b20b3986298812325667e36e02511b2261a6355bb1c053bcde037927c7",
-    "size": 67493218,
-    "notes": "Окна оформления, продления, платежа и приёма влезают в экран ноутбука — кнопки всегда видны\nПравки аренды прямо из карточки\nТёмная тема Windows: подсвеченные строки читаются\nОбновление программы больше не спотыкается о «папку занята»",
+    "version": "0.3.5",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.5/KatAsiaBike-0.3.5-update.zip",
+    "sha256": "ae99c934584340bafb3de6239389c199a7f8f597af59ff9ebb92f0acdb3fafdd",
+    "size": 67503039,
+    "notes": "Импорт аренд из Telegram: три фото альбома в строке, двойной щелчок — весь альбом крупно\nВ выборе байка — фото из карточки\nОкна импорта влезают в экран ноутбука",
     "date": "2026-10-21"
   },
   "stable": {
-    "version": "0.3.4",
-    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.4/KatAsiaBike-0.3.4-update.zip",
-    "sha256": "a4b3c9b20b3986298812325667e36e02511b2261a6355bb1c053bcde037927c7",
-    "size": 67493218,
-    "notes": "Окна оформления, продления, платежа и приёма влезают в экран ноутбука — кнопки всегда видны\nПравки аренды прямо из карточки\nТёмная тема Windows: подсвеченные строки читаются\nОбновление программы больше не спотыкается о «папку занята»",
+    "version": "0.3.5",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.5/KatAsiaBike-0.3.5-update.zip",
+    "sha256": "ae99c934584340bafb3de6239389c199a7f8f597af59ff9ebb92f0acdb3fafdd",
+    "size": 67503039,
+    "notes": "Импорт аренд из Telegram: три фото альбома в строке, двойной щелчок — весь альбом крупно\nВ выборе байка — фото из карточки\nОкна импорта влезают в экран ноутбука",
     "date": "2026-10-21"
   }
 }
