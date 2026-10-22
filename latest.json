@@ -1,18 +1,18 @@
 {
   "test": {
-    "version": "0.3.5",
-    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.5/KatAsiaBike-0.3.5-update.zip",
-    "sha256": "ae99c934584340bafb3de6239389c199a7f8f597af59ff9ebb92f0acdb3fafdd",
-    "size": 67503039,
-    "notes": "Импорт аренд из Telegram: три фото альбома в строке, двойной щелчок — весь альбом крупно\nВ выборе байка — фото из карточки\nОкна импорта влезают в экран ноутбука",
-    "date": "2026-10-21"
+    "version": "0.3.6",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.6/KatAsiaBike-0.3.6-update.zip",
+    "sha256": "e6ae8be8999c0845107672cdedad3245cc5d135ed9636c30d0211b2885d4ed5e",
+    "size": 67514839,
+    "notes": "«✏ Изменить» аренду: байк, клиент, даты, сумма, выдача — на странице «Аренды» и в карточке",
+    "date": "2026-10-22"
   },
   "stable": {
-    "version": "0.3.5",
-    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.5/KatAsiaBike-0.3.5-update.zip",
-    "sha256": "ae99c934584340bafb3de6239389c199a7f8f597af59ff9ebb92f0acdb3fafdd",
-    "size": 67503039,
-    "notes": "Импорт аренд из Telegram: три фото альбома в строке, двойной щелчок — весь альбом крупно\nВ выборе байка — фото из карточки\nОкна импорта влезают в экран ноутбука",
-    "date": "2026-10-21"
+    "version": "0.3.6",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.6/KatAsiaBike-0.3.6-update.zip",
+    "sha256": "e6ae8be8999c0845107672cdedad3245cc5d135ed9636c30d0211b2885d4ed5e",
+    "size": 67514839,
+    "notes": "«✏ Изменить» аренду: байк, клиент, даты, сумма, выдача — на странице «Аренды» и в карточке",
+    "date": "2026-10-22"
   }
 }
