@@ -1,18 +1,18 @@
 {
   "test": {
-    "version": "0.3.6",
-    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.6/KatAsiaBike-0.3.6-update.zip",
-    "sha256": "e6ae8be8999c0845107672cdedad3245cc5d135ed9636c30d0211b2885d4ed5e",
-    "size": 67514839,
-    "notes": "«✏ Изменить» аренду: байк, клиент, даты, сумма, выдача — на странице «Аренды» и в карточке",
-    "date": "2026-10-22"
+    "version": "0.3.7",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.7/KatAsiaBike-0.3.7-update.zip",
+    "sha256": "3235518cdf08768be0b1ab74a69f47f0810a609b54b2f8b1bbe38bc338589ada",
+    "size": 67561510,
+    "notes": "Антиспам клиентского бота: защита от флуда, лимит и склейка заявок, чёрный список, кнопка «Спам» у менеджера.\nРаспознавание фото при импорте аренд (по желанию, выключено по умолчанию): номер → байк, пробег и топливо — подсказкой. Настройки → ИИ → «Распознавание фото».",
+    "date": "2026-10-24"
   },
   "stable": {
-    "version": "0.3.6",
-    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.6/KatAsiaBike-0.3.6-update.zip",
-    "sha256": "e6ae8be8999c0845107672cdedad3245cc5d135ed9636c30d0211b2885d4ed5e",
-    "size": 67514839,
-    "notes": "«✏ Изменить» аренду: байк, клиент, даты, сумма, выдача — на странице «Аренды» и в карточке",
-    "date": "2026-10-22"
+    "version": "0.3.7",
+    "url": "https://github.com/stereolubov/katasia-bike-releases/releases/download/v0.3.7/KatAsiaBike-0.3.7-update.zip",
+    "sha256": "3235518cdf08768be0b1ab74a69f47f0810a609b54b2f8b1bbe38bc338589ada",
+    "size": 67561510,
+    "notes": "Антиспам клиентского бота: защита от флуда, лимит и склейка заявок, чёрный список, кнопка «Спам» у менеджера.\nРаспознавание фото при импорте аренд (по желанию, выключено по умолчанию): номер → байк, пробег и топливо — подсказкой. Настройки → ИИ → «Распознавание фото».",
+    "date": "2026-10-24"
   }
 }
